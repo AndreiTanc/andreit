@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425671678 source:h:\documente\projects\andreitanc\clepsidru\main.cpp
+	<iostream>
+	<fstream>
+	<assert.h>
+

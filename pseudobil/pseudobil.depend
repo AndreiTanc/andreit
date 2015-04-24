@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425051212 source:h:\documente\projects\andreitanc\pseudobil\main.cpp
+	<iostream>
+	<fstream>
+
